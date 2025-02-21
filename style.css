@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(69, 76, 210);
+}
+
+.container {
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+.amarelo {
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(210, 194, 69);
+    box-sizing: border-box;
+}
+
+.flexivel {
+    display: flex;
+}
+
+.alongar {
+    padding-right: 320px;
+}
+
+.alongar2 {
+    padding-block: 210px;
+}
+
+.alongar3 {
+    padding-block: 210px;
+}
+
+.alongar4{
+    padding-block: 320px;
+}
+
+.crescer {
+    padding-top: 200px;
+}
+
+.crescer2 {
+    padding-top: 330px;
+}
+
+.alongar3b {
+    padding-block: 210px;
+    padding-right: 320px;
+}
