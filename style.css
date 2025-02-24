@@ -14,6 +14,13 @@ body {
     box-sizing: border-box;
 }
 
+.invisível {
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(69, 76, 210);
+    box-sizing: border-box;
+}
+
 .flexivel {
     display: flex;
 }
