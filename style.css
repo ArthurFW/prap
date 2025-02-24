@@ -53,3 +53,16 @@ body {
     padding-block: 210px;
     padding-right: 320px;
 }
+
+.fantasma {
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(69, 76, 210);
+    box-sizing: border-box;
+}
+
+.esticar{
+    padding-right: 320px;
+    margin: 10px;
+    box-sizing: border-box;
+}
